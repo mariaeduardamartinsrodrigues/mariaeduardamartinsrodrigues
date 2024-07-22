@@ -9,6 +9,7 @@
 Buscando oportunidades para crescer e contribuir em projetos incríveis. 💡
 </div>
 
+<p> </p>
 <div align="center">
   <a href="https://github.com/mariaeduardamartinsrodrigues">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardamartinsrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
