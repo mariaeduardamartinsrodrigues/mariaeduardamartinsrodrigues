@@ -4,5 +4,7 @@
   </a>
 </p>
 
+<div align="center">
 🌟 Apaixonada por tecnologia e aprendizado constante!
 Buscando oportunidades para crescer e contribuir em projetos incríveis. 💡
+</div>
