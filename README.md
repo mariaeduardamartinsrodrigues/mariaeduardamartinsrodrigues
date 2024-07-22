@@ -29,7 +29,7 @@ Buscando oportunidades para crescer e contribuir em projetos incríveis. 💡
 
   <p></p>
   <div align="center"> 
-  <a href = "mailto:memartins219@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/maria-eduarda-martins-2349701a9"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:memartins2199@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-martins-2349701a9/?originalSubdomain=br"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  
 </div>
